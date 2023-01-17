@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="https://github.com/LABDevelop">
-  <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api?username=LABDevelop&hide=stars,contribs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LABDevelop&layout=compact&langs_count=6&theme=dark&hide=Objective-C,Shell,EJS"/>
-</div>
+Em construção...
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
